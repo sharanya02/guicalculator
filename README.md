@@ -18,7 +18,7 @@
 - First clone the project
 - Go to the directory where you have cloned it
 - Run the following:
--  python main.py 
+-  python '''main.py''' 
 
 ### Contributors:
 - [Sharanya Mukherjee](https://github.com/sharanya02)
