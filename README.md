@@ -1,6 +1,7 @@
 # GUI Calculator
 
 ### This is a GUI Calculator to perform basic operations on long numbers
+#### NOTE: Only calculation with one operator at a time
 
 ### Features:
 
